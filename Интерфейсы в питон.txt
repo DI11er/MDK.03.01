@@ -1,0 +1,11 @@
+pyuic5.exe -x имя.ui -o имя_ui.py
+
+pyuic5 имя.ui -o имя_ui.py
+
+C:\Users\Alex\Desktop\Programs\venv\Scripts\pyuic5.exe -x C:\Users\Alex\Desktop\Programs\MDK.03.01\GUI.ui -o C:\Users\Alex\Desktop\Programs\MDK.03.01\GUI.py
+
+C:\Users\stepa\AppData\Local\Programs\Python\Python39-32\Scripts\pyuic5.exe -x G:\Study\Programs\MDK.03.01\GUI.ui -o G:\Study\Programs\MDK.03.01\GUI.py 
+
+J:\Study\Programs\venv\Scripts\pyuic5.exe -x J:\Study\Programs\MDK.03.01\GUI.ui -o J:\Study\Programs\MDK.03.01\GUI.py
+
+H:\Stuff\PyQt5\Programs\venv\Scripts\pyuic5.exe -x H:\Stuff\PyQt5\Programs\MDK.03.01\GUI.ui -o H:\Stuff\PyQt5\Programs\MDK.03.01\GUI.py
